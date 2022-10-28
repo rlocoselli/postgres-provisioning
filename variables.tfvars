@@ -1,0 +1,5 @@
+private_key_path="C:/keys/meubusao.pem"
+key_name="meubusao"
+region="us-east-1"
+bucket_name="myprovisioningdockerapplication"
+acl="private"
